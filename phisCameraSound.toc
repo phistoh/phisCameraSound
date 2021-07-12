@@ -1,4 +1,4 @@
-## Interface: 90005
+## Interface: 90100
 ## Title: phisCameraSound
 ## Author: phistoh
 ## Version: 1.0.1
