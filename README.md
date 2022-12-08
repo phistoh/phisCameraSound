@@ -9,6 +9,7 @@ This addon does its work automatically.
 - **phisCameraSound.toc** is the standard WoW table-of-contents file containing addon information
 
 ## Changes
+- **1.0.3**: Update for Dragonflight (10.0.2) (new interface number)
 - **1.0.2**: Update for Chains of Domination (9.1.0) (new interface number)
 - **1.0.1**: Changed name in `toc` file
 - **1.0**: Initial upload
