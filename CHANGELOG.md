@@ -1,3 +1,6 @@
+## v1.0.4
+- Update for Dragonflight (10.0.5) (new interface number)
+
 ## v1.0.3
 - Update for Dragonflight (10.0.2) (new interface number)
 
