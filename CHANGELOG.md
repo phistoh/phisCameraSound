@@ -1,3 +1,7 @@
+## v1.0.5
+- Update for Dragonflight (10.2.0) (new interface number)
+- Icon in `toc` file
+
 ## v1.0.4
 - Update for Dragonflight (10.0.5) (new interface number)
 
