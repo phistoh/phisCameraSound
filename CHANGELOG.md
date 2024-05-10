@@ -1,3 +1,6 @@
+## v1.0.7
+- Update for Dark Heart (10.2.7) (new interface number)
+
 ## v1.0.6
 - Update for Plunderstorm (10.2.6) (new interface number)
 
