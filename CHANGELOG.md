@@ -1,3 +1,6 @@
+## v1.0.8
+- Update for The War Within (11.0.0) (new interface number)
+
 ## v1.0.7
 - Update for Dark Heart (10.2.7) (new interface number)
 
