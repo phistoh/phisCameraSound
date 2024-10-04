@@ -1,3 +1,6 @@
+## v1.0.9
+- Update for The War Within (11.0.2) (new interface number)
+
 ## v1.0.8
 - Update for The War Within (11.0.0) (new interface number)
 
