@@ -1,7 +1,7 @@
-## Interface: 110002
+## Interface: 110200
 ## Title: phisCameraSound
 ## Author: phistoh
-## Version: 1.0.9
+## Version: 1.0.10
 ## Notes: Removes the 'Screen Captured' message from screen and plays a camera shutter upon taking a screenshot
 ## IconTexture: 1109100
 ## X-Curse-Project-ID: 746384

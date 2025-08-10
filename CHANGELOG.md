@@ -1,3 +1,6 @@
+## v1.0.10
+- Update for Ghosts of K'aresh (11.2) (new interface number)
+
 ## v1.0.9
 - Update for The War Within (11.0.2) (new interface number)
 
